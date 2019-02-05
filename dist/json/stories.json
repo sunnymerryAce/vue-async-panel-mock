@@ -1,0 +1,35 @@
+{
+  "01": {
+    "id": "01",
+    "title": "念願のMINI CROSSOVER",
+    "hashtags": ["memory"],
+    "src": "https://bmw-luxury.jp/images/panel/001.jpg",
+    "index": 1,
+    "recommend": ["02", "03"]
+  },
+  "02": {
+    "id": "02",
+    "hashtags": ["friend", "5DOOR", "enjoy"],
+    "src": "https://bmw-luxury.jp/images/panel/002.jpg"
+  },
+  "03": {
+    "id": "03",
+    "hashtags": ["friend", "5DOOR", "memory"],
+    "src": "https://bmw-luxury.jp/images/panel/003.jpg"
+  },
+  "04": {
+    "id": "04",
+    "hashtags": ["friend", "enjoy", "memory"],
+    "src": "https://bmw-luxury.jp/images/panel/004.jpg"
+  },
+  "05": {
+    "id": "05",
+    "hashtags": ["5DOOR", "enjoy", "memory"],
+    "src": "https://bmw-luxury.jp/images/panel/005.jpg"
+  },
+  "06": {
+    "id": "06",
+    "hashtags": ["friend", "5DOOR"],
+    "src": "https://bmw-luxury.jp/images/panel/006.jpg"
+  }
+}
